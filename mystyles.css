@@ -1,1 +1,10 @@
-
+<!DOCTYPE html> 
+<html>  
+    <head>  
+        <title>cell padding</title>  
+        <style>  
+          .responsive {
+  width: 100%;
+  height: auto;
+}
+        </style>
