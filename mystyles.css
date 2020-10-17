@@ -3,14 +3,8 @@
     <head>  
         <title>cell padding</title>  
         <style>  
-            .gfg { 
-                width:auto; 
-                text-align:center; 
-                padding:20px; 
-            } 
-            img { 
-                width: 100%; 
-                height: 100%; 
-                object-fit: contain; 
-            } 
+          .responsive {
+  width: 100%;
+  height: auto;
+}
         </style>
