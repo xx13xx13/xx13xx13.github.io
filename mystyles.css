@@ -1,10 +1,13 @@
-.box {
-  width: 30%;
-  height: 200px;
-  border: 5px dashed #f7a239;
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 img {
-  width: 100%;
-  height: 100%;
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
 }
